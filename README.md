@@ -198,5 +198,4 @@ Contributions related to:
 
 --
 
-Just say the word 👌
 
