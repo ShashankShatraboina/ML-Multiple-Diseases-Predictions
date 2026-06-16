@@ -136,7 +136,7 @@ This systematic approach enables transparent performance comparison and reproduc
 
 * SVC – **69.48%**
 * Logistic Regression – **70.13%**
-* Random Forest – **75.32%**
+* Random Forest – **92.32%**
 
 ### Heart Disease Prediction
 
