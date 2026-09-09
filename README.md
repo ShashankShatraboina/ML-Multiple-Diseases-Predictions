@@ -8,7 +8,6 @@ This repository presents a **Machine Learning–based Multiple Disease Predictio
 
 The system serves as a **foundational framework** for investigating how machine learning models can support **early disease detection**, and it is designed to be **extended with fuzzy logic–based reasoning and deep learning models** to enhance clinical accuracy, interpretability, and uncertainty handling.
 
-This work aligns with ongoing doctoral research in the area of **hybrid intelligent systems for healthcare analytics**.
 
 ---
 
