@@ -143,7 +143,7 @@ This pipeline provides a reproducible baseline for subsequent investigation of u
 
 ---
 
-## 📈 iiEvaluation Results
+## 📈 Benchmark Evaluation Results
 
 ### Diabetes Prediction
 
@@ -169,10 +169,9 @@ This pipeline provides a reproducible baseline for subsequent investigation of u
 * XGBoost – **97.37%**
 * KNN – **96.49%**
 
-### Overall Benchmark Result
+### 📊 Overall Benchmark Result
 
-The evaluated experiments achieved a **maximum classification accuracy of 96.2%** across the benchmark disease prediction tasks.
-
+Across the evaluated benchmark experiments, the system achieved classification accuracies of up to 96.2% on the selected disease prediction tasks. These results were obtained through disease-specific preprocessing, feature selection, classifier benchmarking, and hyperparameter optimization.
 
 ---
 
