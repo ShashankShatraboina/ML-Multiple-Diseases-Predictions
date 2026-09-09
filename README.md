@@ -6,8 +6,7 @@
 
 This repository presents a **Machine Learning–based Multiple Disease Prediction System** developed as part of a broader research direction in **AI-driven medical diagnosis and clinical decision support systems**.
 
-The system serves as a **foundational framework** for investigating how machine learning models can support **early disease detection**, and it is designed to be **extended with fuzzy logic–based reasoning and deep learning models** to enhance clinical accuracy, interpretability, and uncertainty handling.
-
+The system serves as a **foundational framework** for investigating how machine learning models can support **early disease prediction**, with a planned extension toward **fuzzy logic–based reasoning and deep learning** for uncertainty-aware and interpretable clinical decision support.
 
 ---
 
@@ -100,6 +99,21 @@ The model development process follows a **research-driven pipeline**:
 This systematic approach enables transparent performance comparison and reproducibility.
 
 ---
+## 🧪 Reproducible Experimental Pipeline
+
+The project follows a disease-specific, reproducible machine learning workflow:
+
+**EDA → Preprocessing → Feature Selection → Classifier Benchmarking → Hyperparameter Tuning → Evaluation**
+
+* **EDA:** Examined dataset distributions and feature characteristics before model development.
+* **Preprocessing:** Applied disease-specific preprocessing, including scaling and data preparation where required.
+* **Feature Selection:** Used **Recursive Feature Elimination (RFE)** to identify informative feature subsets.
+* **Classifier Benchmarking:** Compared multiple classification algorithms for each disease prediction task.
+* **Hyperparameter Tuning:** Applied **GridSearchCV** to optimize selected models.
+* **Evaluation:** Compared models using classification performance metrics and selected disease-specific baseline models.
+
+This pipeline provides a reproducible baseline for subsequent investigation of uncertainty-aware and hybrid intelligent decision-support approaches.
+
 
 ## 🤖 Machine Learning Models Implemented
 
@@ -129,7 +143,7 @@ This systematic approach enables transparent performance comparison and reproduc
 
 ---
 
-## 📈 Model Evaluation Results
+## 📈 Benchmark Evaluation Results
 
 ### Diabetes Prediction
 
