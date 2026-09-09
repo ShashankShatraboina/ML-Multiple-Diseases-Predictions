@@ -143,7 +143,7 @@ This pipeline provides a reproducible baseline for subsequent investigation of u
 
 ---
 
-## 📈 Benchmark Evaluation Results
+## 📈 iiEvaluation Results
 
 ### Diabetes Prediction
 
@@ -169,7 +169,10 @@ This pipeline provides a reproducible baseline for subsequent investigation of u
 * XGBoost – **97.37%**
 * KNN – **96.49%**
 
-> **Note:** These results serve as baseline benchmarks for future hybrid AI model comparisons.
+### Overall Benchmark Result
+
+The evaluated experiments achieved a **maximum classification accuracy of 96.2%** across the benchmark disease prediction tasks.
+
 
 ---
 
