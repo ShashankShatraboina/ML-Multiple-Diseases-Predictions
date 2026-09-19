@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper below."
+authors:
+  - family-names: "Shatraboina"
+    given-names: "Shashank"
+  - family-names: "Yalawar"
+    given-names: "Mrutyunjaya S."
+title: "ML-Multiple-Diseases-Predictions"
+version: 1.0.0
+date-released: 2026-09-19
+license: MIT
+repository-code: "https://github.com/ShashankShatraboina/ML-Multiple-Diseases-Predictions"
+preferred-citation:
+  type: conference-paper
+  title: "AI-Driven Medical Diagnosis: Integrating Fuzzy Logic, Machine Learning, and Deep Learning for Enhanced Clinical Accuracy"
+  authors:
+    - family-names: "Shatraboina"
+      given-names: "Shashank"
+    - family-names: "Yalawar"
+      given-names: "Mrutyunjaya S."
+  collection-title: "2025 2nd International Conference on Computational Intelligence and Computing Applications (ICCICA)"
+  year: 2025
+  doi: "10.1109/iccica67008.2025.11337343"
